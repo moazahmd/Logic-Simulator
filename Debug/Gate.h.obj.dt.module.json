@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\Debug\\Gate.obj",
+            "outputs": [
+                ".\\Debug\\Gate.h.obj.dt.module.json",
+                ".\\Debug\\Gate.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
