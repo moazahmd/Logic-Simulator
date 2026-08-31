@@ -23,4 +23,4 @@ A C++ application for designing and simulating logic circuits, built to demonstr
 
 **Usage**
 
-Compile and run the project using `graphics_sln`.
+Compile and run the project using `graphics_prj.sln`.
