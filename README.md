@@ -1,5 +1,5 @@
-# Logic-Circuit-Simulator
-Simple logic circuit design simulator based on OOP in C++. Different gates, LEDs, keys, and wires are used to design your circuit. Just draw Your circuit and run to see the output :)
+# Logic Circuit Simulator
+Simple logic circuit design simulator based on OOP in C++. Different gates, LEDs, keys, and wires are used to design your circuit. Just draw Your circuit and run to see the output!
 
 
 This project aims mainly to cover topics of OOP such as classes, inheritance, and polymorphism,...
